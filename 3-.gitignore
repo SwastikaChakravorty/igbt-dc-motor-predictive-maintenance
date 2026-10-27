@@ -1,0 +1,9 @@
+slprj/
+*.slxc
+*.autosave
+*.asv
+*.slx.original
+*.slx.r2021a
+matlab.mat
+out.mat
+*.m~
